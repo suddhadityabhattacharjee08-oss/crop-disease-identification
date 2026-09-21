@@ -1,0 +1,11 @@
+name,crop,type,severity,symptoms,treatment,prevention
+Early Blight,Tomato,Fungal,Moderate,"brown spots;yellow leaves;concentric rings","Remove affected leaves and improve air circulation.","Avoid overhead watering and maintain appropriate plant spacing."
+Bacterial Leaf Spot,Tomato,Bacterial,Moderate,"water soaked spots;brown spots;yellowing","Remove affected material and improve sanitation.","Use clean planting material and avoid unnecessary leaf wetness."
+Mosaic Virus,Tomato,Viral,High,"mosaic pattern;leaf distortion;stunted growth","Remove infected plants where appropriate and manage vectors.","Use healthy planting material and monitor insect vectors."
+Leaf Curl Virus,Tomato,Viral,High,"leaf curling;yellowing;stunted growth","Remove severely affected plants where appropriate and manage vectors.","Use healthy plants and monitor vector populations."
+Late Blight,Potato,Fungal,High,"dark leaf spots;wilting;white growth","Remove infected plant material and follow appropriate crop protection guidance.","Use healthy planting material and avoid prolonged leaf wetness."
+Bacterial Wilt,Potato,Bacterial,High,"wilting;yellowing;stem discoloration","Remove severely affected plants and maintain field sanitation.","Use healthy planting material and crop rotation where appropriate."
+Powdery Mildew,Wheat,Fungal,Moderate,"white powder;yellow leaves;leaf discoloration","Remove heavily affected material and improve field ventilation.","Maintain suitable spacing and monitor crop conditions."
+Aphid Infestation,Wheat,Pest,Moderate,"curling leaves;yellowing;small insects;sticky leaves","Use appropriate integrated pest management practices.","Monitor crops regularly and encourage beneficial insects."
+Stem Borer,Rice,Pest,High,"dead hearts;wilting;stem damage","Remove severely affected material and use integrated pest management.","Monitor fields and maintain appropriate crop management."
+Northern Leaf Blight,Maize,Fungal,Moderate,"long leaf lesions;brown spots;leaf drying","Remove severely affected material and use appropriate disease management.","Use resistant varieties where available and maintain field sanitation."
